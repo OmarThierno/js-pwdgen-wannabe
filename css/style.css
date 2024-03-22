@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+#pwrandom {
+  font-size: 2rem;
+  color: rgb(218, 80, 0);
+}
